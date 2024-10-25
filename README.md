@@ -4,11 +4,15 @@ Proyecto de tesis 1
 
 ---
 
+## Cuaderno de trabajo
+
 Se tiene el enlace de trabajo del Overleaf:
 
 [Cuaderno de trabajo](https://www.overleaf.com/7176943143mzkpgqxfmypb#bc0891)
 
 ---
+
+## Archivos Descargables
 
 Archivos descargables en:
 
