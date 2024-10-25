@@ -18,7 +18,7 @@ Archivos descargables en:
 
 [Archivos descargables](https://github.com/Kinartb/Tesis-1/releases/tag/Arhivos_Descargables)
 
-Los cuales tienen como nombre:
+Es necesario que se ubiquen en la misma carpeta donde se encuentra el código del proyecto, tienen como nombre:
 - UNSW_NB15_testing-set.csv
 - UNSW_NB15_training-set.csv
 
